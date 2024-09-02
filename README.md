@@ -508,7 +508,8 @@ int main() {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/71ab65eb-a07a-4cb1-abbc-3db92eb45896)
+![image](https://github.com/user-attachments/assets/a057df04-85d3-40b6-9b48-c19506ab885c)
+
 
 
 
