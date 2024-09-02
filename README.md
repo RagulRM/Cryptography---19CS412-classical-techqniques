@@ -458,7 +458,7 @@ int main() {
     char dec[1000] = "";
     int n;
 
-    strcpy(msg, "PERARASU");
+    strcpy(msg, "RAGUL");
     printf("Input message : %s\n", msg);
 
     // Convert the input message to uppercase
