@@ -377,7 +377,7 @@ int main() {
 
 
 ## RESULT:
-The program is executed successfully
+The Playfair Cipher program is executed successfully
 
 
 ---------------------------
@@ -514,7 +514,7 @@ int main() {
 
 
 ## RESULT:
-The program is executed successfully
+The Hill Cipher program is executed successfully
 
 -------------------------------------------------
 
@@ -628,7 +628,7 @@ void decipher() {
 
 
 ## RESULT:
-The program is executed successfully
+The Vigenere Cipher program is executed successfully
 
 -----------------------------------------------------------------------
 
@@ -801,4 +801,4 @@ void decrypt(char str[], int rails) {
 
 
 ## RESULT:
-The program is executed successfully
+The Rail Fence Cipher program is executed successfully
