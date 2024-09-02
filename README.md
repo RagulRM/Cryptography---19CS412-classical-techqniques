@@ -409,7 +409,7 @@ The cipher can, be adapted to an alphabet with any number of letters. All arithm
 
 
 ## PROGRAM:
-```
+``` c
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -544,7 +544,7 @@ The Vigenere cipher is a method of encrypting alphabetic text by using a series 
 
 
 ## PROGRAM:
-```
+``` c
 #include <stdio.h>
 #include <stdlib.h>  // For exit() function
 #include <ctype.h>   // For toupper() function
@@ -657,7 +657,7 @@ ALGORITHM DESCRIPTION:
 In the rail fence cipher, the plaintext is written downwards and diagonally on successive "rails" of an imaginary fence, then moving up when we reach the bottom rail. When we reach the top rail, the message is written downwards again until the whole plaintext is written out. The message is then read off in rows.
 
 ## PROGRAM:
-```
+``` c
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
