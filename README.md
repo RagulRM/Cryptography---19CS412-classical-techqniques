@@ -102,9 +102,12 @@ int main() {
 OUTPUT:
 Simulating Caesar Cipher
 
+![image](https://github.com/user-attachments/assets/c7d6a015-a0fc-4516-9bbc-4a74f3c7dd01)
 
-Input : Anna University
-Encrypted Message : Dqqd Xqlyhuvlwb Decrypted Message : Anna University
+
+Input : RAGUL
+Encrypted Message : UDJXO 
+Decrypted Message : RAGUL
 
 ## RESULT:
 The Caeser Cipher program is executed successfully
