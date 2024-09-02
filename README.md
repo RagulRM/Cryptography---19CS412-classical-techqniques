@@ -795,7 +795,7 @@ void decrypt(char str[], int rails) {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/899e06c8-1ef9-4a1c-90c2-53b49fae3b4d)
+![image](https://github.com/user-attachments/assets/bd2a2f5f-f212-4ab3-9fde-762a6d997c5d)
 
 ![image](https://github.com/user-attachments/assets/07b8b558-60ea-4148-91a1-d4b5f255bcc7)
 
