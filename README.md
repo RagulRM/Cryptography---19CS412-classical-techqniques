@@ -153,7 +153,7 @@ To decrypt, use the INVERSE (opposite) of the last 3 rules, and the 1st as-is (d
 
 
 ## PROGRAM:
-```
+``` c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -352,7 +352,7 @@ int main() {
     printf("Key text: %s\n", key);
 
     // Plaintext to be encrypted
-    strcpy(str, "PERARASU");
+    strcpy(str, "RAGUL");
     printf("Plain text: %s\n", str);
 
     // Encrypt using Playfair Cipher
@@ -370,7 +370,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/ca63e66c-1156-4603-88bf-21272b3e5fa5)
+
+![Screenshot 2024-09-02 112320](https://github.com/user-attachments/assets/d93da392-9172-4514-90f4-8f3e8d191aea)
 
 
 
