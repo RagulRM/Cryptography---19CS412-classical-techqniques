@@ -100,7 +100,7 @@ int main() {
 
 ## OUTPUT:
 OUTPUT:
-Simulating Caesar Cipher
+# Simulating Caesar Cipher
 
 ![image](https://github.com/user-attachments/assets/c7d6a015-a0fc-4516-9bbc-4a74f3c7dd01)
 
